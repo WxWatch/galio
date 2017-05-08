@@ -1,0 +1,23 @@
+{
+  "name": "galio",
+  "version": "0.0.1",
+  "description": "A Rate Limiter for the Riot Games API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/WxWatch/galio.git"
+  },
+  "keywords": [
+    "riot-games-api",
+    "rate-limit"
+  ],
+  "author": "James Glenn <jglenn1@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/WxWatch/galio/issues"
+  },
+  "homepage": "https://github.com/WxWatch/galio#readme"
+}
